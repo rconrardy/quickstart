@@ -1,0 +1,8 @@
+env
+__pycache__
+quickstart/__pycache__
+quickstart/api/__pycache__
+quickstart/models/__pycache__
+quickstart/views/__pycache__
+*.pyc
+node_modules
